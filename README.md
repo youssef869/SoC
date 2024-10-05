@@ -17,7 +17,22 @@ These registers are accessed with offsets from the base address mentioned in the
 
 
  ## MIPS processor
- 
+  ### Data path
+
+  ![image](https://github.com/user-attachments/assets/4a0bc76b-791c-41af-94c0-644b8cb12b1c)
+
+  ### Control unit
+
+  ![image](https://github.com/user-attachments/assets/31bb48bd-817f-42fe-8610-fb9b9fa56482)
+
+   #### Main decoder
+   
+   ![image](https://github.com/user-attachments/assets/32634e9b-0335-4c29-b7f5-b0bcc5923835)
+
+   #### ALU decoder
+
+   ![image](https://github.com/user-attachments/assets/3fadb4aa-55ac-4048-a4bd-4ab90331bfc4)
+
  ## APB bus
   #### APB signals
   
