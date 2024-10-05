@@ -19,7 +19,7 @@ These registers are accessed with offsets from the base address mentioned in the
  ## MIPS processor
   ### Data path
 
-  ![image](https://github.com/user-attachments/assets/4a0bc76b-791c-41af-94c0-644b8cb12b1c)
+  ![image](https://github.com/user-attachments/assets/9a302184-c0e0-4176-82d5-e1ab52b47d77)
 
   ### Control unit
 
