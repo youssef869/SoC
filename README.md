@@ -14,7 +14,8 @@ These registers are accessed with offsets from the base address mentioned in the
  Here a simple system on chip was developed containig a processor (single-cycle MIPS) and a single peripheral (UART) with an APB bus.
   ### Block diagram
   
-  ![block drawio](https://github.com/user-attachments/assets/4f6222ce-d7c1-4886-930d-b5cb7af11e49)
+  ![image](https://github.com/user-attachments/assets/8355fc55-74f0-4689-9512-778c5a33acc7)
+
 
  ### MIPS processor
  
