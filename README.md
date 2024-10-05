@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55b326c4-2a83-4152-bc7f-0e1f558b3c61)# SoC
+# SoC
 ## Introduction
 A System on Chip (SoC) integrates a microcontroller's core components, including the CPU, memory, input/output (I/O) ports, and various peripherals, all into a single chip.
 the Processor know how to access each peripheral using memory maped I/O. In a SoC, instead of having the peripherals’ control and data as inputs, they are stored in registers 
@@ -39,7 +39,7 @@ These registers are accessed with offsets from the base address mentioned in the
 
   #### FSM
 
-  ![image](https://github.com/user-attachments/assets/339e1ef7-e514-458b-a434-6744ed8118e3)
+  ![image](https://github.com/user-attachments/assets/55b326c4-2a83-4152-bc7f-0e1f558b3c61)
 
  ### UART 
  
