@@ -1,6 +1,6 @@
 # Introduction
 A System on Chip (SoC) integrates a microcontroller's core components, including the CPU, memory, input/output (I/O) ports, and various peripherals, all into a single chip.
-the Processor know how to access each peripheral using memory maped I/O. In a SoC, instead of having the peripherals’ control and data as inputs, they are stored in registers 
+The processor know how to access each peripheral using memory maped I/O. In a SoC, instead of having the peripherals’ control and data as inputs, they are stored in registers 
 (register layering) or small memories to be accessed by the processor using load/store instructions.
  ## Memory Mapped I/O
  In memory-mapped I/O, peripherals are mapped to the memory address space of the processor. This means that the I/O devices are treated like memory locations and can be accessed
