@@ -1,5 +1,5 @@
 # Introduction
-A System on Chip (SoC) integrates a microcontroller's core components, including the CPU, memory, input/output (I/O) ports, and various peripherals, all into a single chip.
+A System on Chip (SoC) integrates microcontroller's core components, including the CPU, memory, input/output (I/O) ports, and various peripherals, all into a single chip.
 The processor know how to access each peripheral using memory maped I/O. In a SoC, instead of having the peripherals’ control and data as inputs, they are stored in registers 
 (register layering) or small memories to be accessed by the processor using load/store instructions.
  ## Memory Mapped I/O
